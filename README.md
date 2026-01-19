@@ -1,11 +1,43 @@
-# Pagina_Responsiva
-Um projeto de página responsiva desenvolvido utilizando  as tecnologias HTML e CSS.
+# 🍔 FooD PeeK
 
+Landing page responsiva para uma hamburgueria fictícia, desenvolvida com **HTML, CSS e JavaScript puro**, com foco em layout moderno, navegação responsiva e boas práticas básicas de front-end.
 
-### Tecnologias que usei.
+---
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />  
-    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
-</div>
+## 📸 Preview
+
+> Projeto conceitual para estudo de estrutura HTML, estilização CSS e interatividade simples com JavaScript.
+
+---
+
+## 🧠 Objetivo do Projeto
+
+Este projeto foi criado com fins **educacionais**, para praticar:
+
+- Estruturação semântica com HTML5  
+- Estilização moderna e responsiva com CSS  
+- Menu mobile interativo com JavaScript  
+- Organização básica de arquivos para projetos web  
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- **HTML5**
+- **CSS3**
+- **JavaScript (Vanilla JS)**
+- **Google Fonts**
+- **Boxicons**
+
+---
+
+## 📂 Estrutura de Pastas
+
+```bash
+📁 projeto-foodpeek
+│
+├── index.html
+├── style.css
+├── index.js
+└── 📁 img
+    └── hamburguer.png
